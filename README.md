@@ -1,6 +1,6 @@
 <h2 align="center">
   Wyvern Team Portfolio<br/>
-  <a href="https://wyvernteam.com" target="_blank">Live Demo</a>
+  <a href="https://wyvern-team-portfolio.vercel.app/" target="_blank">Live Demo</a>
 </h2>
 
 ![](https://raw.githubusercontent.com/GamerRaven/Wyvern-Team-Portfolio/main/README/desktop.png)
